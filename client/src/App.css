@@ -1,0 +1,204 @@
+.mright{
+    margin-left: 7vw;
+}
+.col{
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+}
+.gif2{
+  position: relative;
+    z-index: 1;
+    background: url('back2.gif') no-repeat center center/cover ; 
+    background-attachment: fixed; 
+    height:90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.gif6{
+  position: relative;
+    z-index: 1;
+    background: url('back6.gif') no-repeat center center/cover ; 
+    background-attachment: fixed; 
+    height:90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.gif4{
+ 
+ 
+  background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%); 
+  height:90vh;
+   
+}
+.gif3{
+  position: relative;
+    z-index: 1;
+    background: url('back3.gif') no-repeat center center/cover ; 
+    background-attachment: fixed; 
+    height:90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.gif7{
+  position: relative;
+    z-index: 1;
+    background: url('back7.gif') no-repeat center center/cover ; 
+    background-attachment: fixed; 
+    height:90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.font4{
+  font-family: 'Grand Hotel', cursive;
+}
+.fontstyle{
+  font-family: 'Pacifico', cursive;;
+}
+
+.x-large{
+  font-size: 5vw;
+  margin-left:4vw ;
+  margin-right: 4vw;
+  font-family: 'Grand Hotel', cursive;
+}
+.font{
+  font-size: 1vw;
+}
+.auth-card{
+  margin-left: 30%;
+  margin-top: 10%;
+  text-size-adjust:auto;
+  padding:20px;
+  margin:auto;
+  margin-top: 10%;
+  text-align: center;
+  max-width: 40%;
+background-color: #DF774E;
+
+}
+.auth-card2{
+  margin-left: 30%;
+ 
+  text-size-adjust:auto;
+  padding:20px;
+  margin:auto;
+  
+  text-align: center;
+  max-width: 40%;
+background-color: #DF774E;
+
+}
+.mycard{
+margin-top: 20%;
+
+}
+a:hover{
+    color: rgb(168, 105, 105);
+}
+/* Global Styles */
+.ma1{
+  margin-left: 2vw;
+  
+ 
+}
+.ma2{
+  margin-left: 2vw;
+  margin-right: 2vw;
+  max-width: 10vw;
+}
+.ma3{
+  margin-left: 6vw;
+  margin-right: 4vw;
+  max-width: 10vw;
+}
+   .overlay{
+    
+
+   }
+   .card-image{
+     margin: 1vh 2vw;
+     
+   }
+
+   .gif{
+    position: relative;
+    z-index: 1;
+    background: url('back.gif') no-repeat center center/cover ; 
+    background-attachment: fixed; 
+    height:90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size-adjust: 0.58;
+    
+   }
+
+   .gallery{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+    
+   
+   }
+   .img{
+    
+    width:30%;
+    height:30vh;    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+   }
+
+  .hom{
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  }
+   
+   .home-card{
+   background-color: #E4E4E1;
+ background-image: radial-gradient(at top center, rgba(255,255,255,0.03) 0%, rgba(0,0,0,0.03) 100%), linear-gradient(to top, rgba(255,255,255,0.1) 0%, rgba(143,152,157,0.60) 100%);
+ 	background-blend-mode: normal, multiply;
+     max-width: 50vw;
+     height: max-content;
+     margin:25px auto;
+     
+   }
+
+   #toast-container{
+     top:60px !important;
+     right:20px !important;
+     left: auto !important;
+   }
+
+   .gallery{
+     max-height: 5%;
+   }
+
+  a:hover{
+    color: #243B55;
+    text-shadow: #141E30;
+  }
+  a{
+    color: black;
+  }
+  .profile
+  {
+    background: #ECE9E6; 
+  }
